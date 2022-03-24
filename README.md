@@ -11,4 +11,4 @@ sudo apt-get install libglfw3-dev
 
 ## Building
 
-Just run `make -j8`
+Just run `make -j8`.
